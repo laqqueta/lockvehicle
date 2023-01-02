@@ -19,9 +19,6 @@ cd resources
 git clone https://github.com/ESX-PUBLIC/esx_vehiclelock [esx]/esx_vehiclelock
 ```
 
-### Manually
-- Download https://github.com/ESX-PUBLIC/esx_vehiclelock/archive/master.zip
-- Put it in the `[esx]` directory
 
 ## Installation
 - Add this to your `server.cfg`:

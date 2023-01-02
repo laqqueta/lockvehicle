@@ -14,7 +14,9 @@ ESX.RegisterServerCallback('esx_vehiclelock:requestPlayerCars', function(source,
 end)
 
 
-RegisterServerEvent('Carlock:sound')
-AddEventHandler('Carlock:sound', function(pos, sound, volume)
-	exports['essentials']:PlayUrlPos(-1, source, sound, volume, pos, false)
-end)
+-- added comment
+
+-- RegisterServerEvent('Carlock:sound')
+-- AddEventHandler('Carlock:sound', function(pos, sound, volume)
+-- 	exports['essentials']:PlayUrlPos(-1, source, sound, volume, pos, false)
+-- end)
